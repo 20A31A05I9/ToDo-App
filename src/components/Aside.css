@@ -1,0 +1,64 @@
+
+.aside-projects {
+  font-family: Nunito Sans;
+  letter-spacing: 0em;
+  width:20vw;
+  margin: 2rem;
+  height: 90vh;
+  text-align: center;
+}
+
+.aside-head {
+  width: 240px;
+  height: 60px;
+  padding: 16px, 24px, 16px, 24px;
+  border: 0px, 0px, 1px, 0px;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #1b72c2;
+}
+.aside-head img {
+  width: 20px;
+  height: 20px;
+  padding: 2.3px, 2px, 2.3px, 2px;
+}
+.aside-head h4 {
+  width: 101px;
+  height: 28px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: left;
+  color: #232323;
+}
+
+.aside-item {
+  width: 240px;
+  height: 44px;
+  border-radius: 8px;
+  background: #ebeefc;
+}
+.aside-item h5 {
+  padding-top: 7px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #232323;
+}
+.aside-add-button {
+  width: 240px;
+  height: 32px;
+  gap: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  border-top: 1px solid #1b72c2;
+  
+}
+.aside-add-button h6 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3659e2;
+}
